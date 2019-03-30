@@ -1,0 +1,42 @@
+{
+  "profile":{
+    "image":"image/i.jpg",
+    "name":"Gayathri",
+    "designation":"student",
+    "mobile":"9440765234",
+    "email_id":"Gayathri1234@gmail.com"
+  },
+  "career":{
+    "info":"to achieve my  goal"
+  },
+  "education":
+    [
+      {
+    "Institute":"MITS",
+    "Qualification":"B.Tech",
+    "Percentage":"98%",
+    "YOP":"2021"
+  },
+  {
+    "Institute":"Siddhartha college",
+    "Qualification":"inter",
+    "Percentage":"98%",
+    "YOP":"2017"
+  },
+  {
+    "Institute":"Vijaya Bharathi",
+    "Qualification":"SSC",
+    "Percentage":"97%",
+    "YOP":"2015"
+  }
+],
+"skills":[{
+  "name":"Webtechnologies",
+  "info":["html","css","js"]
+},
+{
+  "name":"databases",
+  "info":["jdbc","firebase","sql"]
+}
+]
+}
